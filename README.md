@@ -5,7 +5,7 @@ Aplicação simples de lista de tarefas para praticar conceitos básicos de DevO
 
 ## Integrantes
 - Julia Rodrigues
-- Pedro Heneique Rossi
+- Pedro Henrique Rossi
 
 ## Funcionalidades
 - Adicionar tarefas
